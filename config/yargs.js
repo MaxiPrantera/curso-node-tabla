@@ -29,3 +29,5 @@ const argv = require('yargs')
 
 //asi exporto los yargs en app.js
 module.exports = argv;
+
+// git cheackout -- , en la terminal y me restablece lo que borre o no guarde
